@@ -2,12 +2,11 @@
     <a href="https://farsi.dev" target="_blank">
         <img
             src="https://github.com/iran-react-community/.github/blob/main/docs/images/iran-react-community.jpg?raw=true"
-            width="300"
         >
     </a>
 </p>
 
-&#x202b; 
+&#x202b;
 # جامعه ری‌اکت ایران
 
 ## :black_nib: معرفی
